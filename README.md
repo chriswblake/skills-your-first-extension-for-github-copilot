@@ -50,7 +50,7 @@ In this course, you will:
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
-   <a id="start-exercise">
+   <a id="start-exercise" href="../../issues/1">
       <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
    </a>
 

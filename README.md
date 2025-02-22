@@ -1,4 +1,16 @@
-# Your first extension for GitHub Copilot
+<img src=https://octodex.github.com/images/welcometocat.png align=right height=250px />
+
+⭐️ Congratulations chriswblake! ⭐️
+
+You completed this lesson! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Lesson** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Your first extension for GitHub Copilot
 
 <!-- ![](https://github.com/chriswblake/skills-your-first-extension-for-github-copilot/actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
 
